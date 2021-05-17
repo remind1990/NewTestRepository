@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
   let div = document.createElement("div");
-  div.innerHTML = "hello world";
+  div.innerHTML = "hello wewesadsa";
   document.body.append(div);
 });
